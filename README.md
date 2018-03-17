@@ -1,5 +1,5 @@
 # PrivacySafe Documents
-The documents of PrivacySafe app. 
+The documents of PrivacySafe Disguise. 
 第二空间伪装版在线文档。
 
  - [Device Owner (Non ROOT) Setup](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/Device%20Owner%20(Non%20ROOT)%20Setup.md) 
