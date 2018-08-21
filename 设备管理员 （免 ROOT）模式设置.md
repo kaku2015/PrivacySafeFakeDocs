@@ -50,7 +50,8 @@
 删除所有账户后如下
 
 ![image](https://github.com/kaku2015/PrivacySafeDocs/blob/master/images-zh/delete_account_6.png)
-6.如果您之前设置过多用户或手机自带访客模式、应用双开等，也需要一并关闭或删除（之后可以打开）。
+
+6. 如果您之前设置过多用户或手机自带访客模式、应用双开等，也需要一并关闭或删除（之后可以打开）。
 7. 在电脑上执行命令： ```.\adb shell dpm set-device-owner com.hld.anzenbokusufake/com.hld.anzenbokusu.receiver.DPMReceiver``` 
 </br>**请注意这里一定要使用与应用相对应的adb命令，截图只是示例**
 
