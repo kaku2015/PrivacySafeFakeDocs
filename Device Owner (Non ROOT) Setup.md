@@ -8,24 +8,25 @@
 ### Setup steps:
 1. Make sure your phone running Android  6.0+ and you know how to use [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/) clearly.
 2. Go to "Settings > Accounts", remove **all accounts** including your Google account.
-** Take Huawei mobile phone as an example: **
-Exit Huawei account
+
+</br>**Take Huawei mobile phone as an example:**
+</br>Exit Huawei account
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_1.jpg)
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_2.jpg)
 
-Delete multiple users
+**Delete multiple users**
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_3.jpg)
 
-All of the following accounts need to be deleted
+**All of the following accounts need to be deleted**
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_4.jpg)
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_5.jpg)
 
-After deleting all accounts as follows
+**After deleting all accounts as follows**
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_6.jpg)
 
