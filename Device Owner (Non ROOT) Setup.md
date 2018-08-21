@@ -6,27 +6,27 @@
 - Please clear the lock screen password before Samsung S8+ Android8.0 is activated. After ADB is activated, it may cause the administrator to lock and inaccessible after booting, and may cause problems such as facial recognition unusable. Please activate it with caution.
 
 ### Setup steps:
-1. Make sure your phone running Android  6.0+ and you know how to use [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/) clearly.
+1. Make sure your phone running Android  6.0+ and you know how to use [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/) clearly. 
+</br>[Click here to view the ADB tutorial](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 2. Go to "Settings > Accounts", remove **all accounts** including your Google account.
-
 </br>**Take Huawei mobile phone as an example:**
-</br>Exit Huawei account
+</br>`Exit Huawei account`
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_1.jpg)
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_2.jpg)
 
-**Delete multiple users**
+`Delete multiple users`
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_3.jpg)
 
-**All of the following accounts need to be deleted**
+`All of the following accounts need to be deleted`
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_4.jpg)
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_5.jpg)
 
-**After deleting all accounts as follows**
+`After deleting all accounts as follows`
 
 ![image](https://github.com/kaku2015/PrivacySafeFakeDocs/blob/master/images/delete_account_6.jpg)
 
