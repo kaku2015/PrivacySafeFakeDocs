@@ -72,5 +72,5 @@ It is recommended that the phone remain on this account interface, as some apps 
 
 - **Q: How to uninstall PrivacySafe?**
 - A: Just select "Uninstall" in the settings of PrivacySafe.
-
+j3j
 
